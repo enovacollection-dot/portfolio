@@ -1,8 +1,37 @@
 {
   "items": [
-    { "image": "/images/uploads/bestwork-placeholder.svg", "title": "সেরা কাজ ১", "title_en": "Best Work 1" },
-    { "image": "/images/uploads/bestwork-placeholder.svg", "title": "সেরা কাজ ২", "title_en": "Best Work 2" },
-    { "image": "/images/uploads/bestwork-placeholder.svg", "title": "সেরা কাজ ৩", "title_en": "Best Work 3" },
-    { "image": "/images/uploads/bestwork-placeholder.svg", "title": "সেরা কাজ ৪", "title_en": "Best Work 4" }
+    {
+      "image": "/images/uploads/artboard-1-copy-2-2x.png",
+      "title": "বাংলা পয়েন্ট",
+      "title_en": "Bangla Point"
+    },
+    {
+      "image": "/images/uploads/artboard-8-4x-100.jpg",
+      "title": "আইডি কার্ড",
+      "title_en": "ID CARD"
+    },
+    {
+      "image": "/images/uploads/master-moshai.jpg",
+      "title": "মাস্টার মশাই ব্যানার",
+      "title_en": "Master moshai banner"
+    },
+    {
+      "image": "/images/uploads/head-up-new-concept-25-.jpg",
+      "title": "হেড আপ লোগো",
+      "title_en": "Head Up Logo"
+    },
+    {
+      "image": "/images/uploads/artboard-2-copy-4x-100.jpg",
+      "title": "ব্যানার ডিজাইন",
+      "title_en": "Banner Design"
+    },
+    {
+      "image": "/images/uploads/1-copy-5-4x-100.jpg",
+      "title": "লোগো ডিজাইন",
+      "title_en": "Logo Design"
+    },
+    {
+      "image": "/images/uploads/retre-4x-100.jpg"
+    }
   ]
 }
